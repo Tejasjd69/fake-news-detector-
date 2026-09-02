@@ -184,6 +184,4 @@ model = load_model("path/to/location.keras")
 
 ---
 
-## License
 
-Add a license of your choice here (e.g., MIT, Apache 2.0).
